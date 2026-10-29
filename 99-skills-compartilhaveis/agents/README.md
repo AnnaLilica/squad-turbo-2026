@@ -21,6 +21,7 @@
 | 8 | **`@social-turbo`** | Conteúdo orgânico · Reels · stories · calendário editorial | conteúdo orgânico |
 | 9 | **`@automacao-turbo`** | n8n · ManyChat · mensageria do evento · chatbots DM | workflows |
 | 10 | **`@cs-turbo`** | Pós-venda · onboarding · NPS · depoimentos · reativação | pós-venda |
+| + | **`@nutri-endo-turbo`** | Nutricionista clínica especialista em endometriose · parecer científico com nível de evidência · conteúdo técnico de encontros e protocolos | revisão técnica · não escreve copy de venda |
 
 ---
 
